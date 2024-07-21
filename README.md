@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled.jpg"  />
 
 ###
 
@@ -63,8 +63,7 @@
 ###
 
 <div align="center">
-
-[![Spotify](https://novatorem-mn9adebeg-franklin-fontalvos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/315qidfw2esyrhutvt7djo34c6la)
+  <img src="https://novatorem-mn9adebeg-franklin-fontalvos-projects.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
