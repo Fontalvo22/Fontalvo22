@@ -63,7 +63,8 @@
 ###
 
 <div align="center">
-  <img src="novatorem-mn9adebeg-franklin-fontalvos-projects.vercel.app?" alt="Widget with the current Spotify song"  />
+
+  [![Spotify](https://novatorem-mn9adebeg-franklin-fontalvos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Fontalvo22)
 </div>
 
 ###
