@@ -64,7 +64,7 @@
 
 <div align="center">
 
-  [![Spotify](https://novatorem-mn9adebeg-franklin-fontalvos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Fontalvo22)
+[![Spotify](https://novatorem-mn9adebeg-franklin-fontalvos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/315qidfw2esyrhutvt7djo34c6la)
 </div>
 
 ###
