@@ -2,11 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled.jpg"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -48,6 +44,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -58,12 +56,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Fontalvo22/Fontalvo22/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://novatorem-mn9adebeg-franklin-fontalvos-projects.vercel.app/api/spotify?" alt="Widget with the current Spotify song"  />
+  <img height="200" src="https://camo.githubusercontent.com/d553a5ff0545eefd6cdffa57e1b8f183dcdb68d5a62915ede2a4d4e4a6200fbd/68747470733a2f2f6432613569736f6b7973666f77782e636c6f756466726f6e742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032322f30332f7175652d73652d6e656365736974612d65737475646961722d706172612d7365722d70726f6772616d61646f722d7363616c65642e6a7067"  />
 </div>
 
 ###
