@@ -1,14 +1,18 @@
 <div align="center">
-  <img height="200" src="https://fontalvo.vercel.app/assets/images/logo-complete.png"  />
+  <img height="200" src="https://fontalvo.vercel.app/assets/images/logo-purple.png"  />
 </div>
 
 ###
 
-<p align="center">Backend Developer / Devops / Software Developer</p>
+<p align="center"></p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">Backend Developer / Devops / Software Developer</h2>
+
+###
+
+<h2 align="left">About Me</h2>
 
 ###
 
